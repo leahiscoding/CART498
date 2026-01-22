@@ -1,0 +1,6 @@
+prompt = "A surrealist, generative, absurdist, and abstract photo inspired by DADA movement using human body parts \
+# photomontage (collage-style) of a 19 to 20th-century art \
+# Must include visible scissor-cut or collage edges texture within the photo, Max Ernst style \
+# Inspired by Kharms and Kafka's novel \
+# Artwork only in one photo, \
+# No photo frame "

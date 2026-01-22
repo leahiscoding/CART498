@@ -1,0 +1,6 @@
+prompt = "A dream-like, minimalistic, surrealistic, graphic, neutral, grotesque and experimental collage inspired by Bauhaus style \
+# A photomontage (collage) of a 17 to 19th-century art \
+# Use image segmentation to make collage textures\
+# Inspired by Odilon Redon's Paintings and Max Ernst's collages\
+# Artwork is within one image, \
+# No photo frame "

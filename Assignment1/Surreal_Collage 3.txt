@@ -1,0 +1,6 @@
+prompt = "A surrealist diptych kinetic collage painting; disjointed and layered, neutral colour\
+# The image emphasizes physical texture: Visible scissor marks, rough edges, and glue stains\
+# Inspired by Marcel Duchamp's Nude Descending a Staircase no.2, Paysage fautif, and Rotoreliefs \
+# Metaphysical, absurd, geometric, and industrial textures with bleak mood \
+# Artwork is within one image, \
+# No photo frame"
