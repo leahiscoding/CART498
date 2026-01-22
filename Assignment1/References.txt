@@ -2,3 +2,7 @@ Prompt References:
 - https://gemini.google.com/app/4d57af583b1d369d
 - https://travisnicholson.medium.com/complete-list-of-styles-for-ai-image-generation-100-prompts-c79859cb0d97
 - https://medium.com/data-science/clip-and-paste-using-ai-to-create-modern-collages-from-text-prompts-38de46652827
+
+Google Colab Link:
+https://colab.research.google.com/drive/1T5PfYRtXSBB6M0_p2PhytxF-6uae5t-a?authuser=1#scrollTo=RmiACzfC4SmE 
+* There seems to be an issue with my notebook (I accidentally created the file in a different account that I'm sharing with my family). Please let me know if you cannot access the file!
