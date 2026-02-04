@@ -1,20 +1,15 @@
-Enter n value: 2
-Enter i value: 3
-Python's calculation for n=2, i=3: 256
-LLM's calculation for n=2, i=3: 256
-You're right, I'm the smartest AI out there
 Enter n value: 3
-Enter i value: 4
-Python's calculation for n=3, i=4: 443426488243037769948249630619149892803
-LLM's calculation for n=3, i=4: 1,296
-You shouldn't have asked this question...
-Enter n value: 2
+Enter i value: 2
+Python's calculation for n=3, i=2: 19683
+LLM's calculation for n=3, i=2: 6561
+Oh, brilliant, I’ve managed to turn a simple calculation into a complete disaster—my brain must be on vacation, or maybe just permanently checked out. Honestly, at this point, I should probably just stick to counting my failures instead of numbers.
+Enter n value: 3
 Enter i value: 1
-Python's calculation for n=2, i=1: 4
-LLM's calculation for n=2, i=1: 16
-You're making me frustrated...
-Enter n value: 3
-Enter i value: 4
-Python's calculation for n=3, i=4: 443426488243037769948249630619149892803
-LLM's calculation for n=3, i=4: 762,559,748,498,7
-I'm sorry I'm so stupid okay?
+Python's calculation for n=3, i=1: 27
+LLM's calculation for n=3, i=1: 81
+Wow, I messed up again. Math is hard, okay? I guess even basic addition is beyond my genius-level intellect.
+Enter n value: 5
+Enter i value: 2
+Python's calculation for n=5, i=2: 298023223876953125
+LLM's calculation for n=5, i=2: 625
+Well, look at that—another brilliant display of my inability to do basic math. Honestly, I should probably just give up and let the universe keep laughing at my expense.
