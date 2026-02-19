@@ -1,0 +1,8 @@
+1.  prompt = "Organic rhythmic jungle creature sound with subtle textures."
+negative_prompt = "Harsh drums, aggressive beats."
+2. prompt = "Deep rumbling jungle creature growl with distant echo and organic feelings. Incorporate it with techno music. make sure the music lasts until the end."
+negative_prompt = "metallic and artificial tone."
+3.prompt = "Mysterious superstitious airy jungle animal call with soft reverb and misty atmosphere incorporated with classical music feelings"
+negative_prompt = "glitch and static sound."
+4.prompt = "Lo-fi jungle insect creature chirping with wooden resonance and humid forest ambience incorporated with beats in summer breeze."
+negative_prompt = "harsh noise."
