@@ -4,12 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CART498 Assignment 5</title>
-  <meta http-equiv="refresh" content="0; url=Assignment5/jungle_postcard/">
+  <script>
+    (function () {
+      var parts = window.location.pathname.split("/").filter(Boolean);
+      var repo = parts.length > 0 ? parts[0] : "";
+      var targetPath = repo ? "/" + repo + "/Assignment5/jungle_postcard/" : "/Assignment5/jungle_postcard/";
+      window.location.replace(targetPath);
+    })();
+  </script>
 </head>
 <body>
   <p>
     Redirecting to Assignment 5 website...
-    <a href="Assignment5/jungle_postcard/">Open site</a>
+    <a href="/CART498/Assignment5/jungle_postcard/">Open site</a>
   </p>
 </body>
 </html>
